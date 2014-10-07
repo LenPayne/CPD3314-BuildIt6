@@ -1,0 +1,29 @@
+---
+name: Bob Bobson
+empid: 0012939
+deptid: 03
+mgrid: 0001938
+jobtitle: Programmer
+hiredate: 2014-01-27
+---
+name: Sue Thompson
+empid: 0012943
+deptid: 02
+mgrid: 0001998
+jobtitle: Lead Programmer
+hiredate: 2013-08-14
+---
+name: Ranbir Singh
+empid: 0013539
+deptid: 03
+mgrid: 0001938
+jobtitle: Programmer
+hiredate: 2014-02-28
+---
+name: Cindy Chen
+empid: 0014568
+deptid: 02
+mgrid: 0012943
+jobtitle: Programmer
+hiredate: 2013-09-16
+---
